@@ -29,7 +29,7 @@ main {
 }
 
 nav {
-    width: 250px;
+    width: 250px;  /* Explicitly set width here */
     padding: 1em;
     background-color: #f7f7f7;
     color: #333;
@@ -52,7 +52,6 @@ nav {
 }
 
 nav a {
-    width: 250px;  /* Explicitly set width here */
     color: #333;
     display: block;
     padding: 0.5em 0;
